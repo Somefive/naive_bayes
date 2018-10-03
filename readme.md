@@ -1,5 +1,5 @@
 # Naive Bayes Model
-
+#### Author: Somefive Date: Oct. 2018
 This is an implementation of Naive Bayes Model. It supports two different types features: Numeric and Categorical. For numeric ones, currently only Gaussian Distribution is implemented but other distribution could be implemented similarly. For categorical ones, the model will count the occurrence of the specific value of one feature under some category and use it to predict.
 
 Generally speaking,
